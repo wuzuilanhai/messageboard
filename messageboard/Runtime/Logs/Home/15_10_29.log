@@ -1,0 +1,247 @@
+[ 2015-10-29T00:12:16+08:00 ] 127.0.0.1 /messageboard/Home/register.html
+ERR: 无法加载控制器:Register
+
+[ 2015-10-29T09:02:40+08:00 ] 127.0.0.1 /messageboard/Home/Public/js/common.js
+ERR: 无法加载控制器:Public
+
+[ 2015-10-29T09:03:06+08:00 ] 127.0.0.1 /messageboard/Home/Public/js/common.js
+ERR: 无法加载控制器:Public
+
+[ 2015-10-29T09:03:06+08:00 ] 127.0.0.1 /messageboard/Home/Public/js/supersized-init.js
+ERR: 无法加载控制器:Public
+
+[ 2015-10-29T09:03:06+08:00 ] 127.0.0.1 /messageboard/Home/Public/js/supersized.3.2.7.min.js
+ERR: 无法加载控制器:Public
+
+[ 2015-10-29T09:05:20+08:00 ] 127.0.0.1 /messageboard/Home/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2015-10-29T09:06:36+08:00 ] 127.0.0.1 /messageboard/Home/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2015-10-29T09:06:36+08:00 ] 127.0.0.1 /messageboard/Home/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2015-10-29T09:06:36+08:00 ] 127.0.0.1 /messageboard/Home/supersized-init.js
+ERR: 无法加载控制器:Supersized-init.js
+
+[ 2015-10-29T09:06:36+08:00 ] 127.0.0.1 /messageboard/Home/supersized.3.2.7.min.js
+ERR: 无法加载控制器:Supersized.3.2.7.min.js
+
+[ 2015-10-29T09:06:47+08:00 ] 127.0.0.1 /messageboard/Home/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2015-10-29T09:06:47+08:00 ] 127.0.0.1 /messageboard/Home/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2015-10-29T09:06:47+08:00 ] 127.0.0.1 /messageboard/Home/supersized.3.2.7.min.js
+ERR: 无法加载控制器:Supersized.3.2.7.min.js
+
+[ 2015-10-29T09:06:47+08:00 ] 127.0.0.1 /messageboard/Home/supersized-init.js
+ERR: 无法加载控制器:Supersized-init.js
+
+[ 2015-10-29T09:07:10+08:00 ] 127.0.0.1 /messageboard/Home/supersized-init.js
+ERR: 无法加载控制器:Supersized-init.js
+
+[ 2015-10-29T09:07:10+08:00 ] 127.0.0.1 /messageboard/Home/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2015-10-29T09:07:10+08:00 ] 127.0.0.1 /messageboard/Home/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2015-10-29T09:07:10+08:00 ] 127.0.0.1 /messageboard/Home/supersized.3.2.7.min.js
+ERR: 无法加载控制器:Supersized.3.2.7.min.js
+
+[ 2015-10-29T09:07:23+08:00 ] 127.0.0.1 /messageboard/Home/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2015-10-29T09:07:52+08:00 ] 127.0.0.1 /messageboard/Home/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2015-10-29T09:07:52+08:00 ] 127.0.0.1 /messageboard/Home/messageboard/Home/View/User/common.js
+ERR: 无法加载控制器:Messageboard
+
+[ 2015-10-29T09:07:56+08:00 ] 127.0.0.1 /messageboard/Home/messageboard/Home/View/User/common.js
+ERR: 无法加载控制器:Messageboard
+
+[ 2015-10-29T09:07:56+08:00 ] 127.0.0.1 /messageboard/Home/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2015-10-29T09:08:40+08:00 ] 127.0.0.1 /messageboard/Home/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2015-10-29T09:08:40+08:00 ] 127.0.0.1 /messageboard/Home/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2015-10-29T09:08:40+08:00 ] 127.0.0.1 /messageboard/Home/supersized-init.js
+ERR: 无法加载控制器:Supersized-init.js
+
+[ 2015-10-29T09:08:40+08:00 ] 127.0.0.1 /messageboard/Home/supersized.3.2.7.min.js
+ERR: 无法加载控制器:Supersized.3.2.7.min.js
+
+[ 2015-10-29T09:08:41+08:00 ] 127.0.0.1 /messageboard/Home/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2015-10-29T09:08:41+08:00 ] 127.0.0.1 /messageboard/Home/supersized-init.js
+ERR: 无法加载控制器:Supersized-init.js
+
+[ 2015-10-29T09:08:41+08:00 ] 127.0.0.1 /messageboard/Home/supersized.3.2.7.min.js
+ERR: 无法加载控制器:Supersized.3.2.7.min.js
+
+[ 2015-10-29T09:08:51+08:00 ] 127.0.0.1 /messageboard/Home/jquery.min.js
+ERR: 无法加载控制器:Jquery.min.js
+
+[ 2015-10-29T09:08:51+08:00 ] 127.0.0.1 /messageboard/Home/supersized.3.2.7.min.js
+ERR: 无法加载控制器:Supersized.3.2.7.min.js
+
+[ 2015-10-29T09:08:51+08:00 ] 127.0.0.1 /messageboard/Home/supersized-init.js
+ERR: 无法加载控制器:Supersized-init.js
+
+[ 2015-10-29T09:08:51+08:00 ] 127.0.0.1 /messageboard/Home/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2015-10-29T09:08:51+08:00 ] 127.0.0.1 /messageboard/Home/supersized-init.js
+ERR: 无法加载控制器:Supersized-init.js
+
+[ 2015-10-29T09:08:51+08:00 ] 127.0.0.1 /messageboard/Home/supersized.3.2.7.min.js
+ERR: 无法加载控制器:Supersized.3.2.7.min.js
+
+[ 2015-10-29T09:09:27+08:00 ] 127.0.0.1 /messageboard/Home/supersized.3.2.7.min.js
+ERR: 无法加载控制器:Supersized.3.2.7.min.js
+
+[ 2015-10-29T09:09:27+08:00 ] 127.0.0.1 /messageboard/Home/supersized-init.js
+ERR: 无法加载控制器:Supersized-init.js
+
+[ 2015-10-29T09:09:27+08:00 ] 127.0.0.1 /messageboard/Home/common.js
+ERR: 无法加载控制器:Common.js
+
+[ 2015-10-29T09:09:28+08:00 ] 127.0.0.1 /messageboard/Home/supersized-init.js
+ERR: 无法加载控制器:Supersized-init.js
+
+[ 2015-10-29T09:09:28+08:00 ] 127.0.0.1 /messageboard/Home/supersized.3.2.7.min.js
+ERR: 无法加载控制器:Supersized.3.2.7.min.js
+
+[ 2015-10-29T09:32:38+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/login.html
+ERR: 模板不存在:./messageboard/Home/View//messageboard/index.php/Home/User/index.html.html
+
+[ 2015-10-29T12:57:43+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:57:43+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/common.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:57:43+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/jquery.validate.min.js?var1.14.0
+ERR: 非法操作:js
+
+[ 2015-10-29T12:57:43+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/supersized.3.2.7.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:57:43+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/supersized-init.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:03+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:03+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/supersized.3.2.7.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:03+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/supersized-init.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:03+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/jquery.validate.min.js?var1.14.0
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:03+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/common.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:06+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:06+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/common.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:06+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/supersized.3.2.7.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:06+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/supersized-init.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:06+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/jquery.validate.min.js?var1.14.0
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:31+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:31+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/supersized.3.2.7.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:31+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/supersized-init.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:31+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/common.js
+ERR: 非法操作:js
+
+[ 2015-10-29T12:58:31+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/jquery.validate.min.js?var1.14.0
+ERR: 非法操作:js
+
+[ 2015-10-29T13:00:04+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T13:00:04+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/common.js
+ERR: 非法操作:js
+
+[ 2015-10-29T13:00:04+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/supersized.3.2.7.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T13:00:04+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/supersized-init.js
+ERR: 非法操作:js
+
+[ 2015-10-29T13:00:04+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/jquery.validate.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T13:00:22+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/jquery.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T13:00:22+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/common.js
+ERR: 非法操作:js
+
+[ 2015-10-29T13:00:22+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/supersized.3.2.7.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T13:00:22+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/supersized-init.js
+ERR: 非法操作:js
+
+[ 2015-10-29T13:00:22+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/js/jquery.validate.min.js
+ERR: 非法操作:js
+
+[ 2015-10-29T13:09:31+08:00 ] 127.0.0.1 /messageboard/Home/%3C?php%20echo%20__PUBLIC__/images/1.jpg;?%3E
+ERR: 无法加载控制器:
+
+[ 2015-10-29T13:09:55+08:00 ] 127.0.0.1 /messageboard/Home/%3C?php%20echo
+ERR: 无法加载控制器:
+
+[ 2015-10-29T13:10:26+08:00 ] 127.0.0.1 /messageboard/Home/%3C?php%20echo%20%27__PUBLIC__/images/1.jpg%27;?%3E
+ERR: 无法加载控制器:
+
+[ 2015-10-29T13:24:05+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/__PUBLIC__/js/jquery.min.js
+ERR: 非法操作:__PUBLIC__
+
+[ 2015-10-29T13:24:09+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/%7BP%7D/js/jquery.min.js
+ERR: 非法操作:{P}
+
+[ 2015-10-29T16:47:32+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/User/index
+ERR: 非法操作:User
+
+[ 2015-10-29T16:47:47+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/User/index
+ERR: 非法操作:User
+
+[ 2015-10-29T16:47:49+08:00 ] 127.0.0.1 /messageboard/index.php/Home/User/User/index
+ERR: 非法操作:User
+
+[ 2015-10-29T17:22:48+08:00 ] 127.0.0.1 /messageboard/index.php/Home/message
+ERR: 非法操作:index
+
+[ 2015-10-29T18:55:37+08:00 ] 127.0.0.1 /messageboard/index.php/Home/Message/add.html
+ERR: 1364:Field 'uname' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `message` (`content`,`uid`) VALUES ('adsasdaasd','1')
+
